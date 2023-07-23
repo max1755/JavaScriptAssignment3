@@ -16,6 +16,7 @@ body{
 
 #submit{
     width: 100px;
+    cursor: pointer;
 }
 
 table {
